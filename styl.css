@@ -1,0 +1,23 @@
+div.themes > div {
+    height:20px;
+    width: 20px;
+    float: left;
+    margin-right:5px;
+    cursor: pointer;
+    border:1px solid #555 ;
+}
+.light{
+    background-color:aliceblue;
+    color:#000 ;
+}
+.dark{
+    background-color:rgba(54, 49, 49, 0.384);
+    color: #000;
+}
+.yellow{
+    background-color:rgba(255, 255, 0, 0.719);
+    color: #000;
+}
+.green{
+    background-color: rgb(22, 214, 22);
+}
